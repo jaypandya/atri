@@ -55,17 +55,38 @@ const desktopModeProps = {
     "Flex2": {
       "callbacks": {}
     },
-    "Button1": {
-      "custom": {
-        "text": "Submit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
+    "Flex18": {
+      "callbacks": {}
+    },
+    "Flex14": {
+      "callbacks": {}
+    },
+    "Flex15": {
+      "callbacks": {}
+    },
+    "Flex16": {
+      "callbacks": {}
+    },
+    "Flex17": {
+      "callbacks": {}
+    },
+    "Flex20": {
+      "callbacks": {}
+    },
+    "Flex21": {
+      "callbacks": {}
+    },
+    "Flex23": {
+      "callbacks": {}
+    },
+    "call": {
+      "callbacks": {}
+    },
+    "Flex22": {
+      "callbacks": {}
+    },
+    "Flex19": {
+      "callbacks": {}
     },
     "TextBox3": {
       "custom": {
@@ -155,6 +176,104 @@ const desktopModeProps = {
     "TextBox2": {
       "custom": {
         "text": "."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox11": {
+      "custom": {
+        "text": "I design products"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox12": {
+      "custom": {
+        "text": "that delight and"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox13": {
+      "custom": {
+        "text": "inspire people."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox14": {
+      "custom": {
+        "text": "Hi! I’m Jake, a product designer based in Berlin. I create user-friendly interfaces for fast-growing startups."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox15": {
+      "custom": {
+        "text": "Download CV"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image3": {
+      "custom": {
+        "alt": "Arrow",
+        "src": "/app-assets/G2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button3": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image2": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/G1.jpeg"
       },
       "callbacks": {
         "onClick": [
